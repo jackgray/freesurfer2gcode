@@ -1,0 +1,11 @@
+nipype
+pymeshlab
+jupyter notebook 
+nilearn   
+pytest
+matplotlib 
+xvfbwrapper
+vtk
+
+pySurfer
+pymeshlab
