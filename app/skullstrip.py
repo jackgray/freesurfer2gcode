@@ -2,8 +2,6 @@ from os import abspath, path, mkdir
 from nipype import Node, Workflow
 from nipype.interfaces.freesurfer import ReconAll, MRIConvert
 
-
-
 def skullStrip(in_file):
     # defines subjects_dir path 
     subjects_dir = abspath('anat')
